@@ -1,0 +1,2 @@
+package dsrc; import java.util.*; import java.util.stream.*; import java.util.function.*; public class MainClass { public static void main(String[] args){Custom code = new Custom();
+System.out.println(code.sum(Arrays.asList(1,2,3)));}}
